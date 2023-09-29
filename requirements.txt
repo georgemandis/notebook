@@ -19,6 +19,9 @@ jupyterlite-p5-kernel==0.1.0
 # Lua kernel (optional)
 jupyterlite-xeus-lua==0.3.1
 
+# Ruby kernel
+jupyterlite-ruby-kernel==0.1.0
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3,<4
 # JupyterLab: Geojson file renderer (optional)
